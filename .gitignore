@@ -8,3 +8,6 @@ erl_crash.dump
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+
+## Kan inte bara kasta in allt i git
+/hello
