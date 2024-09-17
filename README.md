@@ -26,6 +26,17 @@ sudo apt update
 sudo apt install elixir erlang-dev erlang-xmerl
 ```
 
+## install elixir on mac
+
+```
+brew install elixir
+
+
+brew install postgresql
+
+
+```
+
 # Phoenix
 
 # install Phoenix
